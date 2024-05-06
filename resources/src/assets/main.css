@@ -1,0 +1,31 @@
+@import './base.css';
+
+#app {
+  width: 100%;
+  direction: rtl;
+}
+*{
+  direction: rtl;
+}
+.v-field--error{background-color: yellow!important;}
+.success .v-input__control{
+  background-color: #74b074;
+}
+.fails .v-input__control{
+  background-color: #ce6fbf;
+}
+main{width: 100%;margin-top: 5%;}
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+

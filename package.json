@@ -1,0 +1,40 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@fortawesome/fontawesome-free": "^6.5.1",
+        "@fortawesome/fontawesome-svg-core": "^6.5.1",
+        "@fortawesome/free-regular-svg-icons": "^6.5.1",
+        "@fortawesome/free-solid-svg-icons": "^6.5.1",
+        "@fortawesome/vue-fontawesome": "^3.0.6",
+        "@mdi/font": "^7.4.47",
+        "@mdi/js": "^7.4.47",
+        "@vitejs/plugin-vue": "^4.5.2",
+        "axios": "^1.6.4",
+        "font-awesome": "^4.7.0",
+        "laravel-vite-plugin": "^1.0.0",
+        "material-design-icons-iconfont": "^6.7.0",
+        "vite": "^5.0.10"
+    },
+    "dependencies": {
+        "@intlify/unplugin-vue-i18n": "^2.0.0",
+        "@vitejs/plugin-vue": "^5.0.3",
+        "axios": "^1.6.7",
+        "maska": "^2.1.11",
+        "v-mask": "^2.3.0",
+        "vee-validate": "^4.12.5",
+        "vite-plugin-vuetify": "^2.0.1",
+        "vue": "^3.4.15",
+        "vue-drag-resize": "^1.5.4",
+        "vue-draggable-resizable": "^3.0.0",
+        "vue-i18n": "^9.9.1",
+        "vue-inputmask": "^0.2.1",
+        "vue-loader": "^17.4.2",
+        "vue-resizable": "^2.1.7",
+        "vuetify": "^3.5.2"
+    }
+}
